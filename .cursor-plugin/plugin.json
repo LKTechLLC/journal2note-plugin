@@ -1,0 +1,13 @@
+{
+  "name": "journal2note",
+  "displayName": "Journal2Note",
+  "version": "1.0.0",
+  "description": "Connect your Journal2Note account so your Bot can read, add, and update your time entries. You approve what it can access and can disconnect anytime. Requires a Journal2Note account.",
+  "author": {
+    "name": "LKTech, LLC"
+  },
+  "homepage": "https://journal2note.com",
+  "license": "MIT",
+  "keywords": ["journal2note", "time-tracking", "time-entries", "productivity", "mcp"],
+  "logo": "assets/logo.png"
+}
