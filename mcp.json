@@ -1,7 +1,10 @@
 {
   "mcpServers": {
     "journal2note": {
-      "url": "https://journal2note.com/mcp"
+      "url": "https://journal2note.com/mcp",
+      "auth": {
+        "CLIENT_ID": "grok_bot_catalog"
+      }
     }
   }
 }
